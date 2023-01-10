@@ -1,0 +1,11 @@
+.cartDetailContainer {
+  height: 100%;
+  margin-left: 5%;
+}
+
+.cartDetailContainer1 {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  height: 100%;
+}

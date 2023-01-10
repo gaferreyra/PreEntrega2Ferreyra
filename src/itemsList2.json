@@ -1,0 +1,194 @@
+[
+    {   
+        "title": "REMERA DE HOMBRE NEGRA",
+        "price": 6000,
+        "stock": 50,
+        "description": "Remera mangas cortas de escote redondo. La encontrás en color gris y blanco. Está confeccionada en jersey de algodón.",
+        "image": "https://images.pexels.com/photos/1656684/pexels-photo-1656684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "JEAN DE MUJER CELESTE",
+        "price": 15000,
+        "stock": 12,
+        "description": "Jean de mujer rígido, confeccionado en denim lavado de color celeste claro. Presenta cintura alta, 4 bolsillos y pierna recta.",
+        "image": "https://images.pexels.com/photos/6925420/pexels-photo-6925420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "PANTALON BAMBU",
+        "price": 13000,
+        "stock": 60,
+        "description": "Pantalón estampado.",
+        "image": "https://images.pexels.com/photos/1895943/pexels-photo-1895943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "PANTALON CURAZAO",
+        "price": 17000,
+        "stock": 80,
+        "description": "Pantalón recto de tiro medio, con elástico en la cintura y bolsillos. Está confeccionado en Bambula Cotton. Lo encontrás en color verde oliva o blanco.",
+        "image": "https://images.pexels.com/photos/1027160/pexels-photo-1027160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "JEAN HIGHRISE BLUE",
+        "price": 15000,
+        "stock": 6,
+        "description": "Pantalon highrise confeccionado en denim color azul marino con lavado localizado, bigotes, y costuras al tono. Su calce es tiro alto, tobillero. Presenta 4 bolsillos.",
+        "image": "https://images.pexels.com/photos/818992/pexels-photo-818992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "REMERA MUMBAI",
+        "price": 6000,
+        "stock": 2,
+        "description": "Remerón oversize estampado, de escote redondo, con mangas amplias caídas, confeccionado en algodón. Lo encontrás en color blanco o negro",
+        "image": "https://images.pexels.com/photos/12820465/pexels-photo-12820465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA GROW",
+        "price": 6200,
+        "stock": 0,
+        "description": "Remera de calce regular, confeccionada en algodón y poliéster. De cuello redondo y mangas cortas. La encontrás en color amarillo. La modelo usa talle 42.",
+        "image": "https://images.pexels.com/photos/9583230/pexels-photo-9583230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA HAWAI",
+        "price": 4800,
+        "stock": 26,
+        "description": "Remera con estampa central tropical, confeccionada en algodón. Viene con mangas cortas y escote redondo. La encontrás en color lima o negro. Talle 42.",
+        "image": "https://images.pexels.com/photos/7772803/pexels-photo-7772803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA MAGNOLIA",
+        "price": 1800,
+        "stock": 75,
+        "description": "Remera de mangas cortas y escote redondo, confeccionada en algodón color negro. Presenta una estampa tipográfica central. Talle 42.",
+        "image": "https://images.pexels.com/photos/11142589/pexels-photo-11142589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA DE JERSEY LISA BLANCA",
+        "price": 8000,
+        "stock": 5,
+        "description": "Remera Devré de jersey manga corta con diseño liso de color blanco. De cuello redondo. De calce regular fit. Confeccionada con algodón 100% peinado para una mayor frescura y confort. Ideal para combinar con un look casual o de verano.",
+        "image": "https://images.pexels.com/photos/6311136/pexels-photo-6311136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA DE JERSEY LISA AZUL MARINO MELANGE",
+        "price": 6100,
+        "stock": 7,
+        "description": "Remera de jersey de manga corta con diseño liso y combinado de color azul marino melange. De escote redondo. De calce Regular Fit. Confeccionada con algodón 65% y 35% de otras fibras. Ideal para combinar un look casual o de verano.",
+        "image": "https://images.pexels.com/photos/5901246/pexels-photo-5901246.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA DE JERSEY LISA GRIS MELANGE",
+        "price": 7900,
+        "stock": 750,
+        "description": "Remera de jersey manga corta de color gris claro melange con diseño liso y con bolsillo. De cuello redondo. De calce Regular fit. Confeccionada en algodón 65% y otras fibras 35%. Ideal para ccombinar con un look casual o de verano.",
+        "image": "https://images.pexels.com/photos/6311139/pexels-photo-6311139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA DE JERSEY ESTAMPADA",
+        "price": 7400,
+        "stock": 36,
+        "description": "Remera de jersey de manga corta con diseño estampado de color azul marino. De escote redondo. De calce Regular Fit. Confeccionada con algodón 100% peinado. Ideal para combinar un look casual o de verano.",
+        "image": "https://images.pexels.com/photos/8671091/pexels-photo-8671091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA JERSEY COMBINADA ",
+        "price": 9650,
+        "stock": 69,
+        "description": "Remera Devré de jersey manga corta con diseño combinado de 3 colores. De cuello redondo. De calce regular fit. Confeccionado en algodón 100% peinado para una mayor frescura y confort. Ideal para combinar con un look casual o de verano.",
+        "image": "https://images.pexels.com/photos/4071129/pexels-photo-4071129.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "JOGGER SLIM FIT NEGRO",
+        "price": 10500,
+        "stock": 61,
+        "description": "Pantalón jogger Con dos bolsillos laterales",
+        "image": "https://images.pexels.com/photos/11668723/pexels-photo-11668723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "PANTALON DE VESTIR GRIS",
+        "price": 20000,
+        "stock": 68,
+        "description": "Pantalón Devré de vestir SS100 sin pinzas con diseño liso y micromotivo de color gris medio. De calce slim fit. Tiro medio. Acompañado de 4 bolsillos. Confecciónado con diferentes fibras incluido viscosa. Ideal para combinar con un look formal.",
+        "image": "https://images.pexels.com/photos/1321943/pexels-photo-1321943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "PANTALÓN DE VESTIR LISO SLIM FIT NEGRO",
+        "price": 17500,
+        "stock": 65,
+        "description": "Pantalón Devré de vestir SS100 sin pinzas con diseño liso de color negro. De calce slim fit. Tiro medio. Acompañado de 4 bolsillos. Confecciónado con diferentes fibras incluido viscosa. Ideal para combinar con un look formal.",
+        "image": "https://images.pexels.com/photos/4559534/pexels-photo-4559534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "JEAN SKINNY TAPER",
+        "price": 26900,
+        "stock": 63,
+        "description": "Nuestros Skinny Taper son estilo y máxima comodidad juntos. Cuentan con apertura estrecha en la pierna que le da a la prenda un toque moderno que no podrás resistir. Son unos pantalones súper ajustado que le van perfecto a todos los tipos de cuerpo.",
+        "image": "https://images.pexels.com/photos/1957142/pexels-photo-1957142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "JEAN SLIM FIT",
+        "price": 19000,
+        "stock": 62,
+        "description": "Estos jeans son estilizados en el muslo y rectos hasta el final: una excelente opción para todos los días que combina bien con cualquier look. Un calce Slim moderno con espacio para moverse, mayor elasticidad para mayor comodidad durante todo el día. Una gran alternativa a los jeans ajustados.",
+        "image": "https://images.pexels.com/photos/4397157/pexels-photo-4397157.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "501 '93 STRAIGHT",
+        "price": 13000,
+        "stock": 45,
+        "description": "Nuestros emblemáticos jeans 501®en su edición '93 Straight nos ofrecen una versión inspirada en la estética que predominaba en los años noventa. Este modelo de pantalones tiene tiro alto, mayor amplitud en la pierna, y un toque de elasticidad para darte gran comodidad y un ajuste recto que es más pronunciado, ideal para quien gusta de estar en tendencia sin ser muy arriesgado.",
+        "image": "https://images.pexels.com/photos/13726874/pexels-photo-13726874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "JEAN 90 TIRO BAJO AZUL OSCURO",
+        "price": 13000,
+        "stock": 57,
+        "description": "Jean para hombre, 5 bolsillos, tiro bajo ajuste semi recto con lavado azul medio.",
+        "image": "https://images.pexels.com/photos/10909251/pexels-photo-10909251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "JEAN PALAZZO CON ROTOS",
+        "price": 17600,
+        "stock": 21,
+        "description": "Jean palazzo para mujer, 5 bolsillos, tiro alto, estampado, con rotos y proceso de lavado.",
+        "image": "https://images.pexels.com/photos/14542137/pexels-photo-14542137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "pantalon"
+    },
+    {   
+        "title": "REMERA MANGA CORTA OVERSIZE ESTAMPADA.",
+        "price": 3650,
+        "stock": 8,
+        "description": "Remera manga corta oversize para mujer con estampado en frente.",
+        "image": "https://images.pexels.com/photos/8563454/pexels-photo-8563454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    },
+    {   
+        "title": "REMERA BÁSICA MANGA CORTA ESTAMPADA.",
+        "price": 2669,
+        "stock": 0,
+        "description": "Remera básica para hombre, cuello redondo en Rib, manga corta y estampado sobre el frente.",
+        "image": "https://images.pexels.com/photos/1933589/pexels-photo-1933589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoryId": "remera"
+    }
+]

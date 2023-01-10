@@ -1,0 +1,39 @@
+.navBarContainer {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.navBar {
+  display: flex;
+  background-color: #8fbc8f;
+  width: 98%;
+  height: 100%;
+  margin-bottom: 20px;
+  justify-content: space-between;
+  align-items: center;
+
+  color: black;
+  list-style: none;
+  border-radius: 10px;
+}
+
+.barList {
+  text-decoration: none;
+  list-style: none;
+  width: 1000px;
+  height: 100%;
+}
+
+a {
+  padding: 5px;
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+
+.cart {
+  height: 100%;
+}

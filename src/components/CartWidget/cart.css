@@ -1,0 +1,15 @@
+.cart {
+  display: flex;
+  height: 100%;
+  font-size: 1rem;
+}
+.cartImg {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: white;
+}
+
+.logoeco {
+  width: 70px;
+  height: 80%;
+}

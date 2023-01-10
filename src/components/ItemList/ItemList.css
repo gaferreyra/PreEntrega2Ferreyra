@@ -1,0 +1,30 @@
+.itemListUl {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 230px);
+  gap: 20px;
+  padding: 40px;
+  justify-content: center;
+}
+
+.itemList {
+  list-style: none;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.itemImage {
+  height: 300px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: azure;
+}
+
+@media (max-width: 560px) {
+  .itemImage {
+    width: 90%;
+    height: auto;
+  }
+  .itemListUl {
+    grid-template-columns: 100%;
+  }
+}

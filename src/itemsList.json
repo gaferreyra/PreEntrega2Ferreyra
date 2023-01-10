@@ -1,0 +1,74 @@
+[
+    {   
+        "id": 1,
+        "desc": "Remera Rosa",
+        "precio": 20,
+        "stock": 6,
+        "descripcion": "Remera rosa para hombre",
+        "imagen": "aca va la url de la remera rosa",
+        "idCategory": "remera"
+    },
+    {   
+        "id": 2,
+        "desc": "Jean Azul",
+        "precio": 20,
+        "stock": 6,
+        "descripcion": "Jean azul para hombre",
+        "imagen": "aca va la url del Jean",
+        "idCategory": "pantalon"
+    },
+    {   
+        "id": 3,
+        "desc": "Remera verde",
+        "precio": 20,
+        "stock": 10,
+        "descripcion": "Remera verde para hombre",
+        "imagen": "aca va la url de la Remera verde",
+        "idCategory": "remera"
+    },
+    {   
+        "id": 4,
+        "desc": "Jean rojo",
+        "precio": 50,
+        "stock": 2,
+        "descripcion": "Jean rojo para hombre",
+        "imagen": "aca va la url del Jean rojo",
+        "idCategory": "pantalon"
+    },
+    {   
+        "id": 5,
+        "desc": "Jean mangeta",
+        "precio": 50,
+        "stock": 2,
+        "descripcion": "Jean mangeta para hombre",
+        "imagen": "aca va la url del Jean mangeta",
+        "idCategory": "pantalon"
+    },
+    {   
+        "id": 6,
+        "desc": "Jean blanco",
+        "precio": 90,
+        "stock": 1,
+        "descripcion": "Jean blanco para hombre",
+        "imagen": "aca va la url del Jean blanco",
+        "idCategory": "pantalon"
+    },
+    {   
+        "id": 7,
+        "desc": "Remera amarilla",
+        "precio": 10,
+        "stock": 0,
+        "descripcion": "Remera amarilla para hombre",
+        "imagen": "aca va la url de la Remera amarilla",
+        "idCategory": "remera"
+    },
+    {   
+        "id": 8,
+        "desc": "Remera negra",
+        "precio": 100,
+        "stock": 100,
+        "descripcion": "Remera negra para hombre",
+        "imagen": "aca va la url de la Remera negra",
+        "idCategory": "remera"
+    }
+]
